@@ -1,5 +1,7 @@
 ---
-
+layout: home
 ---
 
-# Jekyll Sampler
+## Jekyll Sampler
+
+Some text.
