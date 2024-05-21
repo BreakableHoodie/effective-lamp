@@ -1,2 +1,3 @@
 # effective-lamp
-Jekyll Sampler
+
+Jekyll Demo

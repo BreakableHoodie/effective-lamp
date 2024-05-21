@@ -1,8 +1,8 @@
 ---
-layout: home
+layout: default
 ---
 
-## Jekyll Sampler
+## Jekyll Demo
 
 Some text.
 
