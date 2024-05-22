@@ -5,4 +5,4 @@ layout: default
 
 # Another page
 
-{{ site.time }}
+{{ site.time | timeago }}
