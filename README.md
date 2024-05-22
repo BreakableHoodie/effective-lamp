@@ -1,3 +1,3 @@
 # effective-lamp
 
-Jekyll Demo
+[Jekyll Demo](https://toddturnbull.github.io/effective-lamp/)
