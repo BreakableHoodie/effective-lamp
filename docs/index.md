@@ -5,7 +5,7 @@ layout: default
 
 # Jekyll Demo
 
-{{ site.time | timeago }}
+{{ site.time}}
 
 This site is built with [GitHub Actions](https://docs.github.com/en/actions) and hosted by [GitHub Pages](https://pages.github.com/).
 
