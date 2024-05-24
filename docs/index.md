@@ -3,25 +3,29 @@ title: Welcome
 layout: page
 ---
 
-# Jekyll Demo
+## Jekyll Demo
 
 {{ site.time}}
 
-This site is built with [GitHub Actions](https://docs.github.com/en/actions) and hosted by [GitHub Pages](https://pages.github.com/).
+This site is built with GitHub Actions{% sidenote 'GA' '[GitHub Actions](https://docs.github.com/en/actions)' %} and hosted by [GitHub Pages](https://pages.github.com/).
+
+### Some code
 
 ```yaml
 # _config.yml
 
+theme: jekyll-theme-tufte
+
+plugins:
+  - jekyll-theme-tufte
+
 title: "Jekyll Demo"
 
-theme: "just-the-docs"
+subtitle: A Jekyll site based on tufte-css
 
-search_enabled: true
-
-# This is the link in the top right corner
-aux_links:
-  "GitHub":
-    - "https://github.com/ToddTurnbull/effective-lamp"
+author: Todd Turnbull
+description: A Jekyll site based on tufte-css
+show_author: true
 ```
 
 ## Resources

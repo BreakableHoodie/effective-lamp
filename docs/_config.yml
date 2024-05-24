@@ -1,7 +1,12 @@
-title: "Jekyll Demo"
-
 theme: jekyll-theme-tufte
 
 plugins:
   - jekyll-theme-tufte
 
+title: "Jekyll Demo"
+
+subtitle: A Jekyll site based on tufte-css
+
+author: Todd Turnbull
+description: A Jekyll site based on tufte-css
+show_author: true
