@@ -1,12 +1,7 @@
-theme: jekyll-theme-tufte
-
-plugins:
-  - jekyll-theme-tufte
+theme: minima
 
 title: "Jekyll Demo"
-
-subtitle: A Jekyll site based on tufte-css
-
+subtitle: "A Jekyll site based on minima"
 author: Todd Turnbull
-description: A Jekyll site based on tufte-css
+description: A Jekyll site based on minima
 show_author: true
